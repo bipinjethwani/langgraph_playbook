@@ -23,7 +23,7 @@ This paper introduced the idea of interleaving **reasoning traces** (thoughts) w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/langgraph_playbook.git
+   git clone https://github.com/bipinjethwani/langgraph_playbook.git
    cd langgraph_playbook
    ```
 
@@ -63,6 +63,5 @@ python main.py
 
 To explore interactively with Jupyter:
 ```bash
-uv add --dev jupyterlab
-jupyter lab
+uv run jupyter lab
 ```
