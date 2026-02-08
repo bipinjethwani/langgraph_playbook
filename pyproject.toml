@@ -1,0 +1,18 @@
+[project]
+name = "langgraph-playbook"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "jupyterlab>=4.5.3",
+    "langchain>=1.2.9",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.7",
+    "langgraph>=1.0.8",
+    "pypdf>=6.6.2",
+    "python-dotenv>=1.2.1",
+    "rich>=14.3.2",
+    "tiktoken>=0.12.0",
+]
