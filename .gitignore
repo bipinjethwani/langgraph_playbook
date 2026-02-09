@@ -14,4 +14,4 @@ wheels/
 .venv
 # Jupyter
 .ipynb_checkpoints/
-.virtual_documents/
+.virtual_documents/.ipynb_checkpoints/
