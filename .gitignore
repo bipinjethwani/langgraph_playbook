@@ -15,3 +15,9 @@ wheels/
 # Jupyter
 .ipynb_checkpoints/
 .virtual_documents/.ipynb_checkpoints/
+
+# Backup folder
+backup/
+
+# macOS
+.DS_Store

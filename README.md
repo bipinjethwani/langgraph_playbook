@@ -17,6 +17,8 @@ Reasoning is the cognitive process that enables decision-making and problem-solv
 | **Tool Use** | Retrieves external information or performs calculations |
 | **Task Decomposition** | Breaks complex problems into manageable subtasks |
 
+**Reference:** [TypedDict vs Pydantic](typeddict_vs_pydantic.md)
+
 ## ReAct: Reasoning + Acting in Language Models
 
 **ReAct = Reasoning + Acting** — A single-agent framework where the agent alternates between thinking (reasoning) and doing (acting) to solve tasks.
